@@ -5046,7 +5046,7 @@ body {
 }
 
 .user-projects li {
-    color: #1a222c;
+    color: #ffffff;
     font-size: 1.1rem
 }
 
@@ -5088,7 +5088,7 @@ body {
     display: inline-block;
     margin: 10px 0;
     padding: 5px;
-    color: #1a222c;
+    color: #b82185;
     background-color: transparent;
     border: 1px solid #1a222c;
     border-radius: 10px;
