@@ -1,13 +1,13 @@
 # Site settings
 title: Design Portfolio
-description: A blog about lorem ipsum dolor sit amet
+description: "Sigi van Lindt's Design Portfolio"
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://sigi-technical.art" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Sigi van Lindt
 user_description: 
-user_title: Industrial Design Master's Student | Making more personal user experiences
+user_title: Industrial Design Master's Student | Digital Design & Personalized UX
 email: svlindt@gmail.com
 #twitter_username: lorem_ipsum
 github_username:  Sogii
