@@ -5,7 +5,7 @@ document.addEventListener(
     particlesJS("particles-js", {
       particles: {
         number: { value: 30, density: { enable: !0, value_area: 800 } },
-        color: { value: "#ffffff" },
+        color: { value: "#b325fa" },
         shape: {
           type: "polygon",
           stroke: { width: 0, color: "#000000" },
@@ -18,7 +18,7 @@ document.addEventListener(
           anim: { enable: !1, speed: 1, opacity_min: 0.1, sync: !1 },
         },
         size: {
-          value: 3,
+          value: 2,
           random: !0,
           anim: {
             enable: !1,
@@ -29,14 +29,14 @@ document.addEventListener(
         },
         line_linked: {
           enable: !0,
-          distance: 150,
-          color: "#ffffff",
+          distance: 450,
+          color: "#b325fa",
           opacity: 0.4,
-          width: 1,
+          width: 2,
         },
         move: {
           enable: !0,
-          speed: 4,
+          speed: 2,
           direction: "none",
           random: !0,
           straight: !1,
