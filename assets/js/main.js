@@ -63,7 +63,7 @@ document.addEventListener(
             speed: 3,
           },
           repulse: { distance: 200, duration: 0.4 },
-          push: { particles_nb: 4 },
+          push: { particles_nb: 2 },
           remove: { particles_nb: 2 },
         },
       },

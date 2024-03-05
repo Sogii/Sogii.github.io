@@ -9,7 +9,7 @@ html {
 
 body {
     margin: 0;
-    background-color: #1A222C;
+    background-color: #0e101b;
 }
 
 article,
@@ -4833,7 +4833,7 @@ sup {
 }
 
 #particles-js {
-    background: #1a222c;
+    background: #0e101b;
     display: flex;
     vertical-align: bottom;
     width: 100%;
@@ -5113,7 +5113,7 @@ body {
 }
 
 .footer {
-    background: #1a222c;
+    background: #0e101b;
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
@@ -5129,3 +5129,26 @@ body {
     margin: 0;
     color: #fff
 }
+
+.content-flex-container {
+    display: flex;
+    justify-content: 25px; /* Adjust this as needed */
+    align-items: flex-start; /* Align items at the start of the container */
+  }
+  
+  .left-content {
+    /* Adjust width as needed */
+    flex: 1; /* Takes up the remaining space */
+  }
+  
+  .right-content {
+    /* Adjust width as needed, or use flex-basis */
+    flex-basis: 100px; /* Example width for the image container */
+  }
+  
+  /* Ensure your image fits well */
+  .right-content img {
+    width: 100%; /* Make the image fit the container */
+    height: auto; /* Keep aspect ratio */
+  }
+  
